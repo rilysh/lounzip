@@ -1,0 +1,19 @@
+** lounzip
+An unzip program based on the libzip library.
+
+** Usage
+Type =lounzip h= for the usage. \\
+#+begin_src text
+lounzip - a unzipping program
+
+Commands:
+ (e|x) - extract an zip archive
+ (l)   - list all files in that zip archive
+ (r)   - rename a file in that zip archive
+ (d)   - delete a file from that zip archive
+ (h)   - print this help menu
+
+Switches:
+ (-y)  - assume 'yes' on archive extraction
+ (-o)  - output directory for the unarchived contents
+#+end_src

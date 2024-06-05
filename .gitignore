@@ -1,0 +1,6 @@
+*.out
+comment
+*_back
+base.c
+*.zip
+lounzip
